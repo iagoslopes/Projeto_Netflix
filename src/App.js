@@ -57,6 +57,9 @@ export default () => {
       </section>
       
       <footer>
+        Feito por Iago de Souza Lopes<br></br>
+        RA: 1131392213018<br></br>
+        Aluno Fatec Mauá<br></br>
         Direitos de imagem para Netflix<br></br>
         API do site themoviedb.org
       </footer>
